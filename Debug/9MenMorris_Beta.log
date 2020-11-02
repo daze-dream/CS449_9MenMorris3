@@ -1,0 +1,8 @@
+﻿  9MenMorris_Beta.cpp
+  Board.cpp
+C:\Users\miste\Documents\CodeProj\9MenMorris_Beta\Board.cpp(81,7): warning C4101: 'available': unreferenced local variable
+  BoardPosition.cpp
+  Player.cpp
+  Generating Code...
+C:\Users\miste\Documents\CodeProj\9MenMorris_Beta\Board.cpp(374): warning C4715: 'Board::isValidLocation': not all control paths return a value
+  9MenMorris_Beta.vcxproj -> C:\Users\miste\Documents\CodeProj\9MenMorris_Beta\Debug\9MenMorris_Beta.exe

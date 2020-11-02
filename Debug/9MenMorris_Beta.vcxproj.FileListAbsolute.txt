@@ -1,0 +1,2 @@
+C:\Users\miste\Documents\CodeProj\9MenMorris_Beta\Debug\9MenMorris_Beta.exe
+C:\Users\miste\Documents\CodeProj\9MenMorris_Beta\Debug\9MenMorris_Beta.pdb
